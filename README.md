@@ -11,10 +11,14 @@ The preserved files are also available via GitHub Pages for convenient browsing 
 - [MD2017](https://ctassisf.github.io/www.opengd77.com/downloads/MD2017/)
 - [MD9600](https://ctassisf.github.io/www.opengd77.com/downloads/MD9600/)
 - [MDUV380_DM1701](https://ctassisf.github.io/www.opengd77.com/downloads/MDUV380_DM1701/)
+- [Voice_Prompts](https://ctassisf.github.io/www.opengd77.com/downloads/Voice_Prompts/)
+- [releases/Build_tools](https://ctassisf.github.io/www.opengd77.com/downloads/releases/Build_tools/)
 - [releases/MD2017](https://ctassisf.github.io/www.opengd77.com/downloads/releases/MD2017/)
+- [releases/MD380](https://ctassisf.github.io/www.opengd77.com/downloads/releases/MD380/)
 - [releases/MD9600](https://ctassisf.github.io/www.opengd77.com/downloads/releases/MD9600/)
 - [releases/MDUV380_DM1701](https://ctassisf.github.io/www.opengd77.com/downloads/releases/MDUV380_DM1701/)
 - [releases/MK22](https://ctassisf.github.io/www.opengd77.com/downloads/releases/MK22/)
+- [releases/Voice_Prompts](https://ctassisf.github.io/www.opengd77.com/downloads/releases/Voice_Prompts/)
 
 ## Disclaimer
 
