@@ -1,0 +1,17 @@
+Changelog
+
+Date 2026/05/04
+Git revision: 946183e9002d277dfaba616a1eea15bfe959c692
+
+This is a maintenance release because of changes to the source code so that it will compile under the latest verion of GCC.
+
+
+
+
+This version also includes changes to the AMBE codec interface code, back-ported from the latest STM32 version.
+
+This version now uses -Os code optimisation on all source code files, whereas pervious many files were accidentally being compiled with no optimisation -O0
+
+
+Thanks to SASANO Takayoshi (JG1UAA) for his help with these changes 
+

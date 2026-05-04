@@ -1,0 +1,15 @@
+Changelog
+
+
+Date: 2026/05/04
+Git revision: e779365405cbe4a73803a402626294764784b11f
+
+This is a maintenance release so that the source code can be compiled using the latest STMCubeIDE development environment which uses a newer version of GCC
+
+Specifically the AMBE codec_interface assembler code would no longer link, becuase the linker no longer allows direct calls to absolute memory addresses.
+
+To overcome this problem, the codec_interface has been reworked to use C function pointers, and this change has also been back-ported to the GD77 (MK22 MCU) version.
+
+The change to no longer use inline assembly code, has also allowed the codec_interface.c file to be compiled with optimisation (-Os)
+
+Thanks to SASANO Takayoshi (JG1UAA)  for reporting the problem
